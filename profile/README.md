@@ -1,7 +1,7 @@
 ## Hi there 👋, Welcome to Think-Digital's GitHub Oranization!
 
 <p align="center">
-  <img src="../assets/profile/cover-image.jpg" alt="Think-Digital, an X'perience beyond learning." width="60%" />
+  <img src="https://user-images.githubusercontent.com/47024224/208606348-ab7fea64-9e81-428b-999c-3baca939d5ad.jpg" alt="Think-Digital, an X'perience beyond learning." width="60%" />
 </p>
 
 ### 🚀 Getting Started
