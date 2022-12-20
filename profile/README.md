@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, Welcome to Think-Digital's GitHub Oranization!
+
+<p align="center">
+  <img src="../assets/profile/cover-image.jpg" alt="Think-Digital, an X'perience beyond learning." width="60%" />
+</p>
+
+### 🚀 Getting Started
+
+### ❓About
 
 We, the team **Think-Digital**, are expanding our reach to those who are in need of any guidance to lead a better career.
 
@@ -9,3 +17,8 @@ We do not assure to provide you with lectures as such, as you will get a lot of 
 This way, we cultivate all the skills required to work in a company, experiencing teamwork right from product development to kickstarting a business, with the management and leadership skills. At this moment of writing, our team is spread across the nation, with 50+ people working in different companies and still staying in touch with our team, providing updates out of their experience on how the industry is transforming.
 
 Our idea is to extend this support for people in need across different colleges and schools. We are currently looking for leads who can take up their initiation to implement this vision in their school/college. Please feel free to refer your friends or cousins who may be in other colleges or schools.
+
+### 👋 Connect
+
+| [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y82cWZsrv6) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team@think-digital.in) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thinkdigital_srm/) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/think-digital-club/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_think_digital_) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@think-digital) |
+| --- | --- | --- | --- | --- | --- |
